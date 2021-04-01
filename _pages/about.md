@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a sophomore mechanical engineering student studying at the College of Dupage. In the fall of 2021, I am transferring to The University of Illinois at Urbana-Champaign to double major there in chemistry and mechanical engineering to then pursue my graduate studies in chemistry
+I am currently a sophomore mechanical engineering student with a minor in chemistry at the College of Dupage. In the fall of 2021, I am transferring to the University of Illinois at Urbana-Champaign to pursue their dual degree program in chemistry and mechanical engineering.
 
 My passion outside of class lies in robotics where at CoD I am the current robotics team captain. I work on leading development of a rover for a NASA hosted competition as well as various outreach events where we allow students and kids of all backgrounds to learn about robotics through virtually controlling robots through live websteams while learning about their inner workings.
 

@@ -1,7 +1,11 @@
 ---
 title: "Inverse Kinematic Model"
-excerpt: "Short description of art item number 1<br/><img src='/images/500x300.png'>"
 collection: code
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'Open source robot arm controlled through an original implementation of inverse kinematics.'
+date: 2020-7-18
+paperurl: 'https://github.com/nikitalukhanin/Inverse-Kinematics'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Find code here](https://github.com/nikitalukhanin/Inverse-Kinematics)

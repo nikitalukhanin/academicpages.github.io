@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /markdownn/
+title: "Markdownn"
 author_profile: true
 redirect_from: 
   - /md/

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikita Lukhanin Portfolio"
+title                    : "Nikita Lukhanin"
 title_separator          : "-"
 name                     : &name "Nikita Lukhanin"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nikita Lukhanin"
   avatar           : "profile.png"
-  bio              : "MechE & Chemistry UIUC 23' Robotics Captain 2020-2021 Organic Chem Connoisseur"
+  bio              : "MechE & Chemistry UIUC 23' Robotics Captain 2020-2021 Organic Chem. Connoisseur"
   location         : "Chicago"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

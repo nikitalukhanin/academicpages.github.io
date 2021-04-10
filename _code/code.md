@@ -1,3 +1,4 @@
+---
 title: "Inverse Kinematic Model"
 excerpt: "Short description of art item number 1<br/><img src='/images/500x300.png'>"
 collection: code

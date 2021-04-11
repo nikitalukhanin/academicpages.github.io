@@ -1,6 +1,6 @@
 ---
 title: "Ceramics"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/mhouse.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/mhouse.jpg' style='width:48px;'>"
 collection: portfolio
 ---
 

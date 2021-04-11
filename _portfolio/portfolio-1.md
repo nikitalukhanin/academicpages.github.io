@@ -1,8 +1,10 @@
 ---
 title: "Ceramics"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/mhouse.jpg' style='width:48px;'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/mhouse.jpg' style='width:300px;'>"
 collection: portfolio
 ---
 
-<br/><img src='/images/lhouse.jpg'>
+<br/><img src='/images/lhouse.jpg' style='width:300px;'>
+<br/><img src='/images/mhouse.jpg' style='width:300px;'>
+<br/><img src='/images/rhouse.jpg' style='width:300px;'>
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

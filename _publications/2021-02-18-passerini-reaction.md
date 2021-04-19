@@ -11,6 +11,3 @@ citation: 'Nikita Lukhanin, Lukhanin. (2021). "Passerini Reaction" <i>College of
 <iframe src="https://nikitalukhanin.github.io/files/passerinireaction.pdf" width="100%" height="800rem">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/brain_in_a_vat.pdf">Download PDF</a>
 </iframe>
-
-Citation: Nikita Lukhanin, Lukhanin. (2021). "Passerini Reaction" <i>College of Dupage Organic Chemistry II</i>.
-

@@ -2,7 +2,7 @@
 title: "Passerini Reaction"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper concerns the Passerini Reaction, an Isocyanide-based Multi-Component Reaction. Written as an overarching study for the class, explorations in the reaction pathways, history, synthesis, and future directions are discussed.'
+excerpt: 'This paper concerns the Passerini Reaction, an Isocyanide-based Multi-Component Reaction. Written as an overarching study for the class, explorations in the reaction pathways, history, synthesis applications, and future directions are discussed.'
 date: 2021-02-18
 venue: 'College of Dupage Organic Chemistry II'
 paperurl: 'http://nikitalukhanin.github.io/files/passerinireaction.pdf'

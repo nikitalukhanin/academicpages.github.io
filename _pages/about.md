@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This fall I transferred to the University of Illinois at Urbana-Champaign from the College of Dupage majoring in Mechanical Engineering with a minor in Chemistry. To me, transferring here means a new start and being at UIUC means new opportunities and goals are to be accomplished.
+This fall I transferred to the University of Illinois at Urbana-Champaign from the College of Dupage majoring in Mechanical Engineering with a minor in physics.
